@@ -19,6 +19,8 @@ This is an experimental dataset of unstructured text. It’s a playground for cr
 - Submit spam, filler content like "Lorem Ipsum," or hateful material.  
 - Repeat content already present in the file.
 
+For more info about which content is allowed and which content is not, please refer the **CONTRIBUTIONS.md** file.
+
 ### Contributions
 - For contributions, please refer **CONTRIBUTIONS.md** file
 
@@ -34,3 +36,7 @@ By using this dataset, you agree that:
 
 If you find any objectionable content, please open an issue to bring it to our attention. We appreciate your help in keeping this project clean and enjoyable!
 ```
+
+## Note
+
+Currently the project is looking for maintainers/ moderators for the project and will help them for opensource contributions.
