@@ -18,10 +18,10 @@ This is an experimental dataset of unstructured text. It’s a playground for cr
 - Submit spam, filler content like "Lorem Ipsum," or hateful material.  
 - Repeat content already present in the file.
 
-For more info about which content is allowed and which content is not, please refer the **CONTRIBUTIONS.md** file.
+For more info about which content is allowed and which content is not, please refer the [CONTRIBUTIONS.md](CONTRIBUTIONS.md) file for guidelines.
 
 ## Contributions
-- For contributions, please refer **CONTRIBUTIONS.md** file
+- For contributions, please refer [CONTRIBUTIONS.md](CONTRIBUTIONS.md) file
 
 
 ## Feedback and Support
