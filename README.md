@@ -1,14 +1,13 @@
 # Rubbish Dataset 🗑️
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+![License](https://img.shields.io/github/license/julurisaichandu/rubbish-dataset)
+![Contributions](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![GitHub Stars](https://img.shields.io/github/stars/julurisaichandu/rubbish-dataset)
 
 Welcome to the **Rubbish Dataset**, a quirky collection of random but meaningful contributions from people around the world! 🌎
 
 ## What is this?  
 This is an experimental dataset of unstructured text. It’s a playground for creativity, randomness, random thoughts, and fun. 
-
-## How to Contribute?  
-1. Fork this repository.  
-2. Add your unique content to `rubbish_dataset.txt`.  
-3. Submit a pull request and describe your addition in the comments.
 
 ### Guidelines:  
 ✅ **Do**:  
@@ -21,8 +20,15 @@ This is an experimental dataset of unstructured text. It’s a playground for cr
 
 For more info about which content is allowed and which content is not, please refer the **CONTRIBUTIONS.md** file.
 
-### Contributions
+## Contributions
 - For contributions, please refer **CONTRIBUTIONS.md** file
+
+
+## Feedback and Support
+Have a question, suggestion, or found an issue? Feel free to [open an issue](https://github.com/julurisaichandu/rubbish-dataset/issues). We value your feedback!
+
+## Reporting Issues
+If you find any inappropriate or offensive content in the dataset, please [open an issue](https://github.com/yourusername/rubbish-dataset/issues) with details, and we will address it promptly.
 
 ## Let’s Build Something Random and Fun Together!
 
@@ -40,3 +46,10 @@ If you find any objectionable content, please open an issue to bring it to our a
 ## Note
 
 Currently the project is looking for maintainers/ moderators for the project and will help them for opensource contributions.
+
+
+## License
+This project is licensed under the MIT License. By contributing, you agree that your submissions will also be licensed under the same terms.
+
+
+
