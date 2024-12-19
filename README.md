@@ -3,6 +3,8 @@
 ![License](https://img.shields.io/github/license/julurisaichandu/rubbish-dataset)
 ![Contributions](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![GitHub Stars](https://img.shields.io/github/stars/julurisaichandu/rubbish-dataset)
+![Looking for Moderators](https://img.shields.io/badge/Looking%20for-Moderators-blue?style=flat-square)
+
 
 Welcome to the **Rubbish Dataset**, a quirky collection of random but meaningful contributions from people around the world! 🌎
 
@@ -43,9 +45,16 @@ By using this dataset, you agree that:
 If you find any objectionable content, please open an issue to bring it to our attention. We appreciate your help in keeping this project clean and enjoyable!
 ```
 
-## Note
+## Looking for Moderators 🛠️
 
-Currently the project is looking for maintainers/ moderators for the project and will help them for opensource contributions.
+We are actively seeking passionate individuals to help moderate and maintain the **Rubbish Dataset**!  
+As a moderator, you will:
+- Review and merge pull requests.
+- Ensure contributions follow the guidelines.
+- Keep the dataset fun, meaningful, and inclusive.
+
+If you're interested, please [open an issue](https://github.com/julurisaichandu/rubbish-dataset/issues/new?assignees=&labels=moderator&template=moderator-application.md&title=Moderator+Application) or contact us directly via email.
+
 
 
 ## License
